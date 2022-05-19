@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning javascript
 - 📫 How to reach me: reinaldorodrigues13@yahoo.com
 - 😄 Pronouns: Ele/dele
-- 
+ 
 <div style="display: inline_block">
 <div align="center">
   <a href="https://github.com/reirodrigues">

@@ -1,6 +1,6 @@
 ### Olá! eu sou o Reinaldo Rodrigues.
 
-- 🔭 I’m currently working on front-end
+- 🔭 I’m currently Studying full-stack
 - 🌱 I’m currently learning javascript
 - 📫 How to reach me: reinaldorodrigues13@yahoo.com
 - 😄 Pronouns: Ele/dele

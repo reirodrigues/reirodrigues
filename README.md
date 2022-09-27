@@ -1,7 +1,7 @@
 ### Olá! eu sou o Reinaldo Rodrigues.
 
 - 🔭 I’m currently Studying full-stack
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning Flutter
 - 📫 How to reach me: reinaldorodrigues13@yahoo.com
 - 😄 Pronouns: Ele/dele
  
